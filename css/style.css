@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding-left: 50px;
+    padding-top: 20px;
+    background-color: white;
+}
+
+.logo{
+    width: 5%;
+    vertical-align: middle;
+}
+
+.scritta{
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+.button{
+    padding: 10px;
+    background-color: DodgerBlue;
+    border: DodgerBlue;
+    border-radius: 10%;
+    color: white;
+    letter-spacing: 0.2em;
+}
+
+.button-1{
+    padding: 7px;
+    background-color: white;
+    border: 2px solid Gainsboro;
+    border-radius: 10%;
+    color: Gainsboro;
+    letter-spacing: 0.2em;
+}
+
+main{
+    width: 60%;
+    margin: auto;
+    margin-top: 80px;
+    background-color: white;
+    padding: 1%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.Bottoni{
+    border: 3px solid #f6f8f9;
+    padding: 30px;   
+}
+
+body{
+    background-color: #f6f8f9;
+    font-family: sans-serif
+}
+
+ul{
+    list-style: none;
+}
+
+.New-Task{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.check{
+    color: green;
+    border: 2px solid green;
+    border-radius: 100%;
+    padding: 1px;
+    text-align: center;
+}
+
+.cross{
+    color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 1px;
+    text-align: center;
+    font-size: 1em;
+}
+
+.editorial{
+    background-color: dodgerblue;
+    color: white;
+    padding: 0.3em;
+    border-radius: 10px;
+}
+
+.q1{
+    background-color: BlueViolet;
+    color: white;
+    padding: 0.3em;
+    border-radius: 10px;
+}
+
+li{
+    margin-top: 20px;
+}
+
+.recruiting{
+    background-color: rgba(54, 170, 54, 0.925);
+    color: white;
+    padding: 0.3em;
+    border-radius: 10px;
+}
+
+.mobile{
+    background-color: orange;
+    color: white;
+    padding: 0.3em;
+    border-radius: 10px;
+}
+
+.website{
+    background-color: violet;
+    color: white;
+    padding: 0.3em;
+    border-radius: 10px;
+}
+
+.sales{
+    background-color: rgb(85, 206, 85);
+    color: white;
+    padding: 0.3em;
+    border-radius: 10px;
+}
